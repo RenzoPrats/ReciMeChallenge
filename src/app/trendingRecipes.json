@@ -1,0 +1,95 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Classic Burger",
+            "difficulty": "easy",
+            "position": 1,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Gourmet Pizza",
+            "difficulty": "medium",
+            "position": 2,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Beef Wellington",
+            "difficulty": "hard",
+            "position": 3,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Spaghetti Carbonara",
+            "difficulty": "medium",
+            "position": 4,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Chicken Stir Fry",
+            "difficulty": "easy",
+            "position": 5,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Chocolate Soufflé",
+            "difficulty": "hard",
+            "position": 6,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Greek Salad",
+            "difficulty": "easy",
+            "position": 7,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Sushi Rolls",
+            "difficulty": "medium",
+            "position": 8,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Baked Alaska",
+            "difficulty": "hard",
+            "position": 9,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Vegetable Lasagna",
+            "difficulty": "medium",
+            "position": 10,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Eggs Benedict",
+            "difficulty": "medium",
+            "position": 11,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Pad Thai",
+            "difficulty": "medium",
+            "position": 12,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Lemon Meringue Pie",
+            "difficulty": "hard",
+            "position": 13,
+            "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+        }
+    ]
+}
